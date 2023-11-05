@@ -1,0 +1,3 @@
+[submodule "HostApp"]
+	path = HostApp
+	url = git@github.com:FernandezKA/HostApp.git
