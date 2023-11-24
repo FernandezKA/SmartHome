@@ -1,3 +1,9 @@
 [submodule "HostApp"]
 	path = HostApp
 	url = git@github.com:FernandezKA/HostApp.git
+[submodule "SmartHomeRESTApi"]
+	path = SmartHomeRESTApi
+	url = git@github.com:KovtunovRoman/SmartHomeRESTApi.git
+[submodule "SmartHomeREST"]
+	path = SmartHomeREST
+	url = git@github.com:KovtunovRoman/SmartHomeREST.git
